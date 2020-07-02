@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 
-## Basic <a id="java-jvm-computer-network-operation-systems"></a>
+## Basic
 
-* [Computer Network](java-jvm-computer-network-operation-systems/computer-network.md)
+* [Computer Network](basic/computer-network.md)
 
